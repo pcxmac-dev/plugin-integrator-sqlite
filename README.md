@@ -1,3 +1,5 @@
+> **Moved.** This plugin is now [plugin-platform-sqlite](https://github.com/pcxmac-dev/plugin-platform-sqlite) (0.2.0, the platform's Databases section). This repository is archived.
+
 # plugin-integrator-sqlite
 
 SQLite for [Liminal](https://github.com/pcxmac-dev/liminal-charts): the data folder's SQLite files as an
